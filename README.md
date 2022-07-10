@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on open sourse repositories
 - 💬 Ask me about Web Dev
-- 📫 How to reach me: [<img height="20px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png"> 4shutoshbhardwaj7](www.linkedin.com/in/4shutoshbhardwaj7/)
+- 📫 How to reach me: [<img height="20px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png"> 4shutoshbhardwaj7](www.linkedin.com/in/4shutoshbhardwaj/)
 - 😄 Pronouns: Ash
 - ⚡ Fun fact: Chai Lover.
 
