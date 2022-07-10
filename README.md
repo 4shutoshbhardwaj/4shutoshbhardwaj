@@ -1,6 +1,5 @@
 ### Hi there 👋, Ashutosh Bhardwaj this side
 
-<--LinkedIn - 4shutoshbhardwaj7-->
 
 - 🔭 I’m currently working on my skills
 - 🌱 I’m currently learning Web Development
