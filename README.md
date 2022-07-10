@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, Ashutosh Bhardwaj this side
 
-<!--
-**4shutoshbhardwaj/4shutoshbhardwaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<--LinkedIn - 4shutoshbhardwaj7-->
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my skills
+- 🌱 I’m currently learning Web Development
+- 👯 I’m looking to collaborate on open sourse repositories
+- 💬 Ask me about Web Dev
+- 📫 How to reach me: [<img height="20px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png"> 4shutoshbhardwaj7](www.linkedin.com/in/4shutoshbhardwaj7/)
+- 😄 Pronouns: Ash
+- ⚡ Fun fact: Chai Lover.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api?username=4shutoshbhardwaj&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
