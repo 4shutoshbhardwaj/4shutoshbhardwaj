@@ -5,7 +5,7 @@
   <br>
   <br>
    
- <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> 
+ ##<p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> 
 
 - 👨‍💻 My Portfolio - <a href="https://google.com" style="color:blue; textDecoration:none;" target="_blank"><i>Ashutosh Bhardwaj</i></a>
 
