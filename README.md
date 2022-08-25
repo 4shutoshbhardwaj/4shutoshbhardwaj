@@ -13,7 +13,7 @@
 
 - 📫 How to reach me *4shutoshbhardwaj@gmail.com*
 
-<img src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg" width="350" align="right" alt="" />
+<img src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg" width="400" align="right" alt="" />
 
 ```js
 import SoftwareDeveloper from 'India';
