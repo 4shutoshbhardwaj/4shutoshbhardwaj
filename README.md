@@ -12,7 +12,7 @@
 
 - 📫 How to reach me *4shutoshbhardwaj@gmail.com*
 
-<img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="350px" align="right" alt="" />
+<img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="330px" align="right" alt="" />
 
 ```js
 import SoftwareDeveloper from 'India';
