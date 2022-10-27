@@ -79,10 +79,10 @@ class Skills extends SoftwareDeveloper {
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=4shutoshbhardwaj&hide_border=true&theme=radical" />
 </p>
 <br />
-<img src="https://activity-graph.herokuapp.com/graph?username=4shutoshbhardwaj&theme=minimal" alt="activitygraph&theme=radical" />
+<img src="https://activity-graph.herokuapp.com/graph?username=4shutoshbhardwaj&theme=radical" alt="activitygraph" />
 <br />
 <!-- <p align="center" margin-right="10px"><img src="https://github-readme-streak-stats.herokuapp.com/?user=4shutoshbhardwaj&theme=radical" alt=""/></p> -->
-<p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=4shutoshbhardwaj&theme=radical" alt=""/> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=4shutoshbhardwaj&theme=radical" alt=""/> </p>
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4shutoshbhardwaj&theme=radical" alt="summarycard"/> </p>
 <br>
 <br>
