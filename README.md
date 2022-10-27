@@ -74,16 +74,16 @@ class Skills extends SoftwareDeveloper {
 <h2>📊 Github Stats</h2>
 <br/>
 
-<div>
-  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=4shutoshbhardwaj&show_icons=true&theme=dark" />
-  <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=4shutoshbhardwaj&layout=compact&theme=dark" />
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=4shutoshbhardwaj&show_icons=true&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=4shutoshbhardwaj&hide_border=true&theme=radical" />
+</p>
 <br />
-<img src="https://activity-graph.herokuapp.com/graph?username=4shutoshbhardwaj&theme=minimal" alt="activitygraph&theme=dark" />
+<img src="https://activity-graph.herokuapp.com/graph?username=4shutoshbhardwaj&theme=minimal" alt="activitygraph&theme=radical" />
 <br />
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=4shutoshbhardwaj&theme=dark" alt=""/></p>
-<p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=4shutoshbhardwaj&theme=dark" alt=""/> </p>
-<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4shutoshbhardwaj&theme=vue" alt="summarycard"/> </p>
+<!-- <p align="center" margin-right="10px"><img src="https://github-readme-streak-stats.herokuapp.com/?user=4shutoshbhardwaj&theme=radical" alt=""/></p> -->
+<p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=4shutoshbhardwaj&theme=radical" alt=""/> </p>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4shutoshbhardwaj&theme=radical" alt="summarycard"/> </p>
 <br>
 <br>
 <br>
