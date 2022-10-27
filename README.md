@@ -6,7 +6,7 @@
    
  <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> 
 
-- 👨‍💻 My Portfolio - <a href="4shutoshbhardwaj.netlify.app/" style="color:blue; textDecoration:none;" target="_blank"><i>Ashutosh Bhardwaj</i></a>
+- 👨‍💻 My Portfolio - <a href="https://4shutoshbhardwaj.netlify.app/" style="color:blue; textDecoration:none;" target="_blank"><i>Ashutosh Bhardwaj</i></a>
 
 - 🌱 I’m currently learning *Data Structures and Algorithms.*
 
