@@ -12,23 +12,6 @@
 
 - 📫 How to reach me *4shutoshbhardwaj@gmail.com*
 
-<img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="320px" align="right" alt="" />
-
-```js
-import SoftwareDeveloper from 'India';
-class Bio extends SoftwareDeveloper {
-  name     = 'Ashutosh Bhardwaj';
-  title    = 'Software Engineer' || 'Full Stack Web Developer';
-  location = 'Maharashtra, India';
-  availability = "Available to hire!!";
-}
-class Skills extends SoftwareDeveloper {
-  frontend  = ['JavaScript', 'HTML', 'CSS', 'React', 'Redux'];
-  backend = ['NodeJs', 'ExpressJs', 'MongoDB'];
-  ui = ['Chakra-Ui', 'Material-Ui', 'Styled-Components', 'Bootstrap'];
-}
-```
-
 <br/>
 
 <h2><i>Tech Stack <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></i></h2>
@@ -80,6 +63,38 @@ class Skills extends SoftwareDeveloper {
 </p>
 <br />
 <img src="https://activity-graph.herokuapp.com/graph?username=4shutoshbhardwaj&theme=radical" alt="activitygraph" />
+<br />
+
+## 📕 Pinned Repositories
+
+<p align="center">
+<a href="https://github.com/4shutoshbhardwaj/MERN-CRUD-BLOG-APP">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4shutoshbhardwaj&repo=MERN-CRUD-BLOG-APP&hide_border=true&theme=radical" />
+</a>
+
+<a href="https://github.com/4shutoshbhardwaj/Reliance-Digital-Clone-Project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4shutoshbhardwaj&repo=Reliance-Digital-Clone-Project&hide_border=true&theme=radical" />
+</a>
+
+<a href="https://github.com/4shutoshbhardwaj/Swiggy-clone-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4shutoshbhardwaj&repo=Swiggy-clone-project&hide_border=true&theme=radical" />
+</a>
+
+<a href="https://github.com/4shutoshbhardwaj/PersonalMovieRecommender">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4shutoshbhardwaj&repo=PersonalMovieRecommender&hide_border=true&theme=radical" />
+</a>
+
+<a href="https://github.com/4shutoshbhardwaj/AshCodes-Weather-Web-App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4shutoshbhardwaj&repo=AshCodes-Weather-Web-App&hide_border=true&theme=radical" />
+</a>
+
+<a href="https://github.com/4shutoshbhardwaj/AshCodesTranslateEtoH">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4shutoshbhardwaj&repo=AshCodesTranslateEtoH&hide_border=true&theme=radical" />
+</a>
+
+</p>
+<hr>
+
 <br />
 <!-- <p align="center" margin-right="10px"><img src="https://github-readme-streak-stats.herokuapp.com/?user=4shutoshbhardwaj&theme=radical" alt=""/></p> -->
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=4shutoshbhardwaj&theme=radical" alt=""/> </p>
