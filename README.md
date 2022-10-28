@@ -120,6 +120,6 @@
   <img src="https://profile-counter.glitch.me/4shutoshbhardwaj/count.svg" />
 </h3>
 
-<p align="center">
+<a href="https://google.com" align="center">
    <img src="https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
+</a>
