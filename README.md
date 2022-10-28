@@ -4,7 +4,9 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Currently+Learning+Full-Stack+Web+Development;Open-Source+Developer;Nice+to+meet+you...)](https://git.io/typing-svg)
   <br>
   
-  <p align="center" ><img  style="width: 50px;" src="https://avatars.githubusercontent.com/u/90901694?v=4"/></p>
+<!--   <p align="center" ><img  style="width: 500px;" src="https://egensoftwares.com/wp-content/uploads/2021/08/mern.png"/></p> -->
+<!--  <p align="center" ><img  style="width: 500px;" src="https://res.cloudinary.com/practicaldev/image/fetch/s--goETGOXU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/x3x5w638kkixi9s3h3vw.gif"/></p> -->
+ <p align="center" ><img  style="width: 200px;" src="https://skillpete.com/uploads/subject/1631954485-subject-hover-image.gif"/></p>
    
  <h1 align="center" style=" align-items: center; border-radius: 50%; width: 100%">  About Me </h1> 
 
