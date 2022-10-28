@@ -1,10 +1,12 @@
-<h1 align="center">Hi there! I'm Ashutosh Bhardwaj <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+<h1 align="center">Hi there! <span color="blue">I'm Ashutosh Bhardwaj</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
  <br>
    
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Currently+Learning+Full-Stack+Web+Development;Open-Source+Developer;Nice+to+meet+you...)](https://git.io/typing-svg)
   <br>
+  
+  <p align="center" ><img  style="width: 50px;" src="https://avatars.githubusercontent.com/u/90901694?v=4"/></p>
    
- <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> 
+ <h1 align="center" style=" align-items: center; border-radius: 50%; width: 100%">  About Me </h1> 
 
 - 👨‍💻 My Portfolio - <a href="https://4shutoshbhardwaj.netlify.app/" style="color:blue; textDecoration:none;" target="_blank"><i>Ashutosh Bhardwaj</i></a>
 
