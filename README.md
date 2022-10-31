@@ -76,6 +76,10 @@
 ## 📕 Pinned Repositories
 
 <p align="center">
+ <a href="https://github.com/4shutoshbhardwaj/MERN-Flipkart-Clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4shutoshbhardwaj&repo=MERN-Flipkart-Clone&hide_border=true&theme=radical" />
+</a>
+ 
 <a href="https://github.com/4shutoshbhardwaj/MERN-CRUD-BLOG-APP">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4shutoshbhardwaj&repo=MERN-CRUD-BLOG-APP&hide_border=true&theme=radical" />
 </a>
