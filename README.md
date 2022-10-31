@@ -100,9 +100,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4shutoshbhardwaj&repo=AshCodes-Weather-Web-App&hide_border=true&theme=radical" />
 </a>
 
-<a href="https://github.com/4shutoshbhardwaj/AshCodesTranslateEtoH">
+<!-- <a href="https://github.com/4shutoshbhardwaj/AshCodesTranslateEtoH">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4shutoshbhardwaj&repo=AshCodesTranslateEtoH&hide_border=true&theme=radical" />
-</a>
+</a> -->
 
 </p>
 <hr>
