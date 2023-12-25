@@ -9,8 +9,9 @@
  <p align="center" ><img  style="width: 200px;" src="https://skillpete.com/uploads/subject/1631954485-subject-hover-image.gif"/></p>
    
  <h1 align="center" style=" align-items: center; border-radius: 50%; width: 100%">  About Me </h1> 
+<!--  <a href="https://4shutoshbhardwaj.netlify.app/" style="color:blue; textDecoration:none;" target="_blank"><i>Ashutosh Bhardwaj</i></a> -->
 
-- 👨‍💻 My Portfolio - <a href="https://4shutoshbhardwaj.netlify.app/" style="color:blue; textDecoration:none;" target="_blank"><i>Ashutosh Bhardwaj</i></a>
+- 👨‍💻 My Portfolio - 
 
 - 🌱 I’m currently learning *Data Structures and Algorithms.*
 
